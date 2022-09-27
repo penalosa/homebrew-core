@@ -2,7 +2,7 @@ require "language/node"
 
 class Workerd < Formula
   desc "👷 workerd, Cloudflare's JavaScript/Wasm Runtime"
-  homepage "https://github.com/cloudflare/workerd"
+  homepage "https://workers.cloudflare.com/"
   url "https://registry.npmjs.org/workerd/-/workerd-1.20220926.2.tgz"
   sha256 "9deae9872f969914138949501379e6f610db8e45fa8c484e6cea2a7d502d278b"
   license "Apache-2.0"
